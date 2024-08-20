@@ -66,8 +66,7 @@ def main():
         </ul>
         Best Regards,
         Nawaiz Ahmad <br>
-        Cell No Or Whatsapp: <a href="tel:+923132295918">+923132295918</a><br>
-        My Portfolio: <a href="https://pronawaiz.wixsite.com/my-site">Portfolio</a> <br>
+        Cell No Or Whatsapp: <a href="tel:+9200000000">+92300000000</a><br>
         Instagram: <a href="https://www.instagram.com/nawaizahmad2021/">Nawaiz Ahmad</a>
         <br>
        Thanks for Checking my <b>Email</b>.<br>
